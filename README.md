@@ -1,1 +1,1 @@
-# ExerciseKotlinWithAI
+# ExerciseAndroidWithAI
